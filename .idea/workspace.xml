@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ae3e6bc-5bbf-48a2-b96f-1dd6065336a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial_2/Predict.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial_2/plotting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial_1/Code1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial_1/Parse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial_1/handlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial_1/rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial_1/util.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,32 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code1.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tutorial_1/handlers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="131" column="22" lean-forward="true" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
+            <state relative-caret-position="180">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
-                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Parse.py">
+        <entry file="file://$PROJECT_DIR$/Tutorial_1/Parse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="252">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -50,28 +41,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/handlers.py">
+        <entry file="file://$PROJECT_DIR$/Tutorial_1/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/util.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="180">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rules.py">
+        <entry file="file://$PROJECT_DIR$/Tutorial_1/rules.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+            <state relative-caret-position="558">
+              <caret line="48" selection-start-line="48" selection-end-line="48" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -97,13 +79,15 @@
         <option value="$PROJECT_DIR$/Code1.py" />
         <option value="$PROJECT_DIR$/Frame.py" />
         <option value="$PROJECT_DIR$/Parse.py" />
+        <option value="$PROJECT_DIR$/Tutorial 1.py" />
+        <option value="$PROJECT_DIR$/Tutorial_2/plotting.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="862" />
-    <option name="y" value="-3" />
-    <option name="width" value="1058" />
+    <option name="x" value="952" />
+    <option name="y" value="-58" />
+    <option name="width" value="977" />
     <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -122,6 +106,11 @@
               <item name="Advanced-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Advanced-Python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Advanced-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Advanced-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Tutorial_1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -130,6 +119,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\Projects\Advanced-Python\Tutorial_2" />
+      <recent name="E:\Github\Projects\Advanced-Python\Tutorial_1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.plotting">
     <configuration name="Parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Advanced-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,7 +151,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Parse.py" />
+      <option name="SCRIPT_NAME" value="E:\Github\Projects\Advanced-Python\Tutorial_1\Parse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plotting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Advanced-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tutorial_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial_2/plotting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,6 +183,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.plotting" />
         <item itemvalue="Python.Parse" />
       </list>
     </recent_temporary>
@@ -194,19 +211,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="690" y="-2" width="846" height="870" extended-state="0" />
+    <frame x="762" y="-46" width="781" height="870" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30617285" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.304698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.3292683" />
+      <window_info anchor="bottom" id="Python Console" visible="true" weight="0.040650405" />
       <window_info anchor="bottom" id="Terminal" weight="0.3292683" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5677507" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39972898" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41286862" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4607046" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
@@ -219,9 +237,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Parse.py</url>
-          <line>47</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/Tutorial_2/plotting.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -230,10 +248,44 @@
     <entry file="file://$PROJECT_DIR$/Frame.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rules.py">
+    <entry file="file://$PROJECT_DIR$/Tutorial 1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Python/Python3/Lib/site-packages/reportlab/graphics/widgetbase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        <state relative-caret-position="137">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python3/Lib/site-packages/reportlab/graphics/renderbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python3/Lib/site-packages/reportlab/graphics/renderPDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="301" selection-start-line="301" selection-end-line="301" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python3/Lib/site-packages/reportlab/graphics/charts/axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="408" column="45" lean-forward="true" selection-start-line="408" selection-start-column="45" selection-end-line="408" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial_2/plotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#4#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -241,40 +293,47 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="36">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code1.py">
+    <entry file="file://$PROJECT_DIR$/Tutorial_1/Code1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="131" column="22" lean-forward="true" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
+          <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/handlers.py">
+    <entry file="file://$PROJECT_DIR$/Tutorial_1/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="180">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Parse.py">
+    <entry file="file://$PROJECT_DIR$/Tutorial_1/rules.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="558">
+          <caret line="48" selection-start-line="48" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial_1/Parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util.py">
+    <entry file="file://$PROJECT_DIR$/Tutorial_1/handlers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

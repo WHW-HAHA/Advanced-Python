@@ -1,7 +1,7 @@
 import sys, re
-from handlers import *
-from util import *
-from rules import *
+from Tutorial_1.handlers import *
+from Tutorial_1.util import *
+from Tutorial_1.rules import *
 
 
 class Parser():
