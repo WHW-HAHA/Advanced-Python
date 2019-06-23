@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ae3e6bc-5bbf-48a2-b96f-1dd6065336a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            <state relative-caret-position="580">
+              <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -41,8 +41,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="870" />
-    <option name="y" value="-58" />
+    <option name="x" value="862" />
+    <option name="y" value="-57" />
     <option name="width" value="1058" />
     <option name="height" value="1088" />
   </component>
@@ -94,7 +94,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="696" y="-46" width="846" height="870" extended-state="0" />
+    <frame x="690" y="-45" width="846" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -119,8 +119,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Code1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state relative-caret-position="580">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
         </state>
       </provider>
     </entry>
