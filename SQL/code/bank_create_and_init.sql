@@ -13,3 +13,4 @@ accbalance float not null default 0
 
 insert into tb_account values (11223344, '王大锤', 1000);
 insert into tb_account values (22334455, '李小龙', 1000);
+insert into tb_account values (11111111, '王汉伟', 1000)
